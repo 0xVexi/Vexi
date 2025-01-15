@@ -36,7 +36,7 @@
 
 📦 Plug-and-Play: Optimized to work out-of-the-box!
 
-🎯 Use Cases for Vexi
+## 🎯 Use Cases for Vexi
 
 🤖 Chatbots: Elevate your digital presence with intelligent chat responses.
 
@@ -48,7 +48,7 @@
 
 🧠 Trading Bots: Integrate Vexi into your trading strategies for smarter decisions.
 
-🚀 Getting Started with Vexi
+## 🚀 Getting Started with Vexi
 
 Prerequisites
 
