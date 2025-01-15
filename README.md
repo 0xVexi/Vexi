@@ -61,7 +61,7 @@ pnpm: Installed globally
 Note for Windows Users: WSL 2 is required.
 
 
-Use the Starter Kit (Recommended)
+## Use the Starter Kit (Recommended)
 
 Clone the Vexi Starter Repository:
 
@@ -92,7 +92,7 @@ Copy code
 
 pnpm i && pnpm build && pnpm start 
 
-Manually Start Vexi (Advanced)
+### Manually Start Vexi (Advanced)
 
 Clone the Vexi Repository:
 
@@ -103,7 +103,7 @@ Copy code
 
 git clone https://github.com/vexios/vexi.git  
 
-Checkout the Latest Release:
+### Checkout the Latest Release:
 
 
 bash
