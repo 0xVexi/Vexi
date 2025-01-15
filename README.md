@@ -92,6 +92,7 @@ Copy code
 
 pnpm i && pnpm build && pnpm start 
 
+
 ### Manually Start Vexi (Advanced)
 
 Clone the Vexi Repository:
@@ -102,6 +103,8 @@ bash
 Copy code
 
 git clone https://github.com/vexios/vexi.git  
+
+
 
 ### Checkout the Latest Release:
 
@@ -120,7 +123,7 @@ Copy code
 cp .env.example .env  
 (Optional: Use JSON-based character files for managing multiple agents.)
 
-Install Dependencies:
+## Install Dependencies:
 
 bash
 Copy code
@@ -159,7 +162,7 @@ Run Vexi with a single command:
 bash
 Copy code
 sh scripts/start.sh  
-Community & Support
+## Community & Support
 GitHub Issues: Report bugs or propose features.
 Discord: Join the community to share your Vexi applications and collaborate
 
