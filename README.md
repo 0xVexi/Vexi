@@ -26,7 +26,7 @@
 
 🔗 Model Agnostic: Support for every major AI model (Llama, Grok, OpenAI, Anthropic, Gemini, and more).
 
-👥 Multi-Agent Collaboration: Engage in dynamic conversations with multiple agents and manage custom rooms.
+👥 Multi-Agent Collaboration: Engage in dynamic conversations with Vexi and manage custom rooms.
 
 📚 Document Interaction: Effortlessly ingest and interact with your files or databases.
 
