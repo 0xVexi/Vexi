@@ -50,7 +50,7 @@
 
 ## 🚀 Getting Started with Vexi
 
-# Prerequisites
+### Prerequisites
 
 Python: 3.7+
 
